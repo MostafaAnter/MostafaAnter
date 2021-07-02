@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="http://www.nyan.cat/cats/original.gif" height="128">
+</div>
+
 ### Hello. I'm Mostafa 👋
 > I’m an android developer with plus 6 years of experience in developing native android apps. I have worked on integrated apps for major clients such as LocName, MAKOnWay, and Tawsili and have been recognized with several awards during my career.
 > 
