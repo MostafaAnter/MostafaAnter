@@ -3,9 +3,11 @@
 </div>
 
 ### Hello. I'm Mostafa 👋
-> I’m an android developer with plus 6 years of experience in developing native android apps. I have worked on integrated apps for major clients such as LocName, MAKOnWay, and Tawsili and have been recognized with several awards during my career.
-> 
-> Colleagues know me as a highly creative developer who can always be trusted to come up with a new approach. But I know that the client’s business comes first, and I never try to impose my ideas on others. Instead, I spend a lot of time understanding the business and the audience before suggesting ideas. I can (and often do) work well alone, but I’m at my best collaborating with others.
+>As a seasoned Android developer with over 8 years of experience, I have a wealth of knowledge and expertise to bring to any project. Throughout my career, I have developed a wide range of Android applications, leveraging the latest technologies and trends to deliver high-quality, user-friendly experiences.
+
+>My expertise includes designing and implementing complex, high-performance Android applications, as well as mentoring and leading teams of developers. I am proficient in Java and Kotlin and have a deep understanding of the Android framework and its APIs. I am also experienced in using third-party libraries and tools, such as Retrofit, Dagger, and RxJava, to streamline development processes and achieve robust and scalable solutions.
+
+>I am committed to staying up-to-date with the latest developments in the field and am constantly learning and exploring new technologies and approaches. I am a problem-solver at heart and enjoy the challenge of tackling complex technical problems to deliver exceptional results for my clients.
 
 ### 🔭 Find my works
 * [@mostafa_anter.portfolio](http://mostafa-anter-portfolio.blogspot.com.eg/)
