@@ -2,6 +2,10 @@
   <img src="http://www.nyan.cat/cats/original.gif" height="128">
 </div>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MostafaAnter" align="center"/>	
+</p>
+
 ### Hello. I'm Mostafa 👋
 >As a seasoned Android developer with over 8 years of experience, I have a wealth of knowledge and expertise to bring to any project. Throughout my career, I have developed a wide range of Android applications, leveraging the latest technologies and trends to deliver high-quality, user-friendly experiences.
 
@@ -31,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
